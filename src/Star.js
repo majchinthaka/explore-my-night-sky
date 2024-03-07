@@ -92,7 +92,7 @@ const Star = ({ index, fixedStarPositions }) => {
         setShow(false)
         setValidate("")
 
-        if (index >= 0 && index <= 10) {
+        if (index >= 0 && index <= 9) {
             setQuestion(questions[index])
             setPopupOpen(true);
         }
