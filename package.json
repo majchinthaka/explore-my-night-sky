@@ -1,5 +1,6 @@
 {
-  "name": "space-explorer",
+  "homepage": "https://majchinthaka.github.io/explore-my-night-sky/",
+  "name": "explore-my-night-sky",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
