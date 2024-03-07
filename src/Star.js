@@ -37,32 +37,32 @@ const Star = ({ index, fixedStarPositions }) => {
 
     const questions = [
         {
-            q: "What is the first topic of our conversation begin?",
+            q: "What is the first topic we discussed at beginning of our conversation?",
             a: "kuweni",
             g: "B"
         },
         {
-            q: "What is the objects of we discussed briefly?",
+            q: "What are the objects we briefly discussed?",
             a: "Stars",
             g: "3"
         },
         {
-            q: "What is thing of we discussed briefly?",
+            q: "What is the important philosophy thing we discussed briefly?",
             a: "Subject to change",
             g: "5"
         },
         {
-            q: "What is the best moment as we discussed?",
+            q: "What is the best moment we discussed?",
             a: "Present",
             g: "T"
         },
         {
-            q: "What is the song I gave you a reply?",
+            q: "What is the song for which I gave you a reply?",
             a: "Matath kaviyak liyanna",
             g: "F"
         },
         {
-            q: "What is the peaceful place to think and talk?",
+            q: "What is the peaceful place for thinking and talking?",
             a: "The sea",
             g: "R"
         },
@@ -72,17 +72,17 @@ const Star = ({ index, fixedStarPositions }) => {
             g: "1"
         },
         {
-            q: "What is my favourite color?",
+            q: "What is my favorite color?",
             a: "Yellow",
             g: "3"
         },
         {
-            q: "What is the youtube channel I suggest to watch for you?",
+            q: "Which YouTube channel did I suggest for you to watch?",
             a: "Ramuwa",
             g: "N"
         },
         {
-            q: "What us become sad?",
+            q: "What makes us become sad?",
             a: "Love and attachment",
             g: "D"
         }
