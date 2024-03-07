@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/explore-my-night-sky/static/css/main.bf31becf.css",
-    "main.js": "/explore-my-night-sky/static/js/main.d46335cd.js",
+    "main.js": "/explore-my-night-sky/static/js/main.cf6a4f50.js",
     "static/js/453.7edaa2c9.chunk.js": "/explore-my-night-sky/static/js/453.7edaa2c9.chunk.js",
     "index.html": "/explore-my-night-sky/index.html",
     "main.bf31becf.css.map": "/explore-my-night-sky/static/css/main.bf31becf.css.map",
-    "main.d46335cd.js.map": "/explore-my-night-sky/static/js/main.d46335cd.js.map",
+    "main.cf6a4f50.js.map": "/explore-my-night-sky/static/js/main.cf6a4f50.js.map",
     "453.7edaa2c9.chunk.js.map": "/explore-my-night-sky/static/js/453.7edaa2c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf31becf.css",
-    "static/js/main.d46335cd.js"
+    "static/js/main.cf6a4f50.js"
   ]
 }
