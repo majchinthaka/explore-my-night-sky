@@ -63,7 +63,7 @@ const Star = ({ index, fixedStarPositions }) => {
         },
         {
             q: "What is the peaceful place for thinking and talking?",
-            a: "The sea",
+            a: "sea",
             g: "R"
         },
         {
