@@ -74,8 +74,18 @@ const Mars = () => {
                         </h3>
                         <br/>
                         <p>
-                            පමා වී පිපුණු මලකි මට 🖤🖤🖤
+                            පමා වී පිපුණු මලකි මට ඹබ 🖤🖤🖤
                         </p>
+                        <hr/>
+                        <h2>
+                            All Done! You did it very well C. <br/>
+                            I'm very happy to be your Best Friend. <br/>
+                            🖤⭐
+                        </h2>
+                        <br/>
+                        <h2 style={{color: '#e74c3c', fontWeight: 600}}>
+                            Thank you for joining my journey. 🖤
+                        </h2>
                     </Col> : <Col sm={12} md={12} lg={12}>
                         <h2>If you want explore the Mars 👾👽</h2>
                         <h5>Grab the key from the moon 🌙</h5>
