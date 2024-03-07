@@ -69,9 +69,9 @@ const Moon = () => {
             >
                 <Row>
                     {!show ? <Col sm={12} md={12} lg={12}>
-                        <h2>If you want to find the message in the Moon 🌙</h2>
+                        <h2>If you want to find the message on the Moon 🌙 <br/> Explorer the stars ✨</h2>
                         <br/>
-                        <p>Give me the password you found from the stars</p>
+                        <p>Give me the password you collect from the stars</p>
                         <Form.Control
                             size="sm"
                             type="text"
